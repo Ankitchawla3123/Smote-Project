@@ -12,7 +12,7 @@ It includes graphs and analysis demonstrating how each sampling method balances 
 This notebook contains the **dataset loading, preprocessing, model training, and evaluation**.  
 Different machine learning models are applied to the dataset to compare performance before and after applying SMOTE techniques.
 
-### 3. acm.oy
+### 3. acm.py
 module for data pre processing pipeline and applying models
 
 ## Objective
